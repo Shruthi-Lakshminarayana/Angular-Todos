@@ -1,0 +1,12 @@
+.task {
+  padding: 8px;
+  margin: 2px;
+  background-color: rgb(248, 245, 245);
+  font-size: 0.7em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.reminder {
+  border-left: 3px solid green;
+}

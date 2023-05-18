@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700&family=Playfair+Display:wght@400;500&family=Poppins:wght@300;400&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "playfair", sans-serif;
+}
+button {
+  background-color: black;
+  font-size: 1em;
+  color: white;
+  width: 100px;
+  padding: 6px;
+  border-radius: 8px;
+}
+.container {
+  border: 1px solid black;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+  padding: 5%;
+  height: 700px;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+input[type="checkbox"] {
+  width: 45px;
+  height: 15px;
+  background: #555;
+  position: relative;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+input[type="submit"] {
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 1em;
+}

@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "courses enquiry",
+      "day": "wednesday at 1pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Get-together",
+      "day": "Thursday at 3pm",
+      "reminder": false
+    },
+    {
+      "text": "Learn Angular",
+      "day": "24th April , 7:11am",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Watch IPL",
+      "day": "25th April 11am",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Gym",
+      "day": "1st May 6pm",
+      "reminder": false,
+      "id": 8
+    }
+  ]
+}
